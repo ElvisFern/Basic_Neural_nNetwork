@@ -1,4 +1,4 @@
-# Basic_Neural_nNetwork
+# Basic_Neural_Network
 
 Quick Learn
 -----------
